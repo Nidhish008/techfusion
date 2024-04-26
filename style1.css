@@ -1,0 +1,1033 @@
+.desktop {
+    background-color: #f7f7f7;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .desktop .div {
+    background-color: #f7f7f7;
+    overflow: hidden;
+    width: 1440px;
+    height: 4832px;
+    position: relative;
+  }
+  
+  .desktop .frame {
+    position: absolute;
+    width: 1090px;
+    height: 638px;
+    top: 3671px;
+    left: 149px;
+  }
+  
+  .desktop .frame-2 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 38.2px;
+    position: absolute;
+    top: 481px;
+    left: 0;
+  }
+  
+  .desktop .text-wrapper {
+    position: relative;
+    width: fit-content;
+    margin-top: -0.76px;
+    font-family: "Manrope-Bold", Helvetica;
+    font-weight: 700;
+    color: #1a1a1a;
+    font-size: 41.3px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .p {
+    position: relative;
+    width: 1090.36px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 13.8px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .frame-3 {
+    position: absolute;
+    width: 917px;
+    height: 420px;
+    top: 0;
+    left: 92px;
+    background-image: url(./img/mask-group.png);
+    background-size: 100% 100%;
+  }
+
+  .services{
+    height: 400px;
+    width: 900px;
+  }
+  
+  .desktop .frame-4 {
+    position: absolute;
+    width: 1219px;
+    height: 917px;
+    top: 1875px;
+    left: 87px;
+  }
+  
+  .desktop .text-wrapper-2 {
+    position: absolute;
+    top: 43px;
+    left: 344px;
+    font-family: "Manrope-Bold", Helvetica;
+    font-weight: 700;
+    color: #1a1a1a;
+    font-size: 41.3px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .frame-5 {
+    position: absolute;
+    width: 1219px;
+    height: 799px;
+    top: 182px;
+    left: 0;
+  }
+  
+  .desktop .overlap {
+    position: absolute;
+    width: 1501px;
+    height: 880px;
+    top: 419px;
+    left: -103px;
+  }
+  
+  .desktop .rectangle {
+    position: absolute;
+    width: 610px;
+    height: 381px;
+    top: 0;
+    left: 713px;
+    background-color: var(--variable-collection-color-4);
+    border-radius: 22.92px;
+  }
+  
+  .desktop .frame-6 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 38.2px;
+    position: absolute;
+    top: 62px;
+    left: 188px;
+  }
+  
+  .desktop .img {
+    position: relative;
+    width: 114.61px;
+    height: 114.61px;
+  }
+  
+  .desktop .frame-7 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15.28px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .desktop .text-wrapper-3 {
+    position: relative;
+    width: fit-content;
+    margin-top: -0.76px;
+    font-family: "Manrope-Bold", Helvetica;
+    font-weight: 700;
+    color: #1a1a1a;
+    font-size: 26.7px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-4 {
+    position: relative;
+    width: 437.83px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #1a1a1a;
+    font-size: 13.8px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .frame-8 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 38.2px;
+    position: absolute;
+    top: 57px;
+    left: 798px;
+  }
+  
+  .desktop .text-wrapper-5 {
+    position: relative;
+    width: 327.8px;
+    margin-top: -0.76px;
+    font-family: "Manrope-Bold", Helvetica;
+    font-weight: 700;
+    color: var(--txt);
+    font-size: 26.7px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .humanistic-therapy {
+    position: relative;
+    width: 437.83px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--txt);
+    font-size: 13.8px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .mentor {
+    position: absolute;
+    width: 1501px;
+    height: 555px;
+    top: 324px;
+    left: 0;
+  }
+  
+  .desktop .frame-9 {
+    position: relative;
+    width: 1468px;
+    height: 568px;
+    top: 160px;
+    background-color: #7393b3;
+  }
+  
+  .desktop .overlap-group {
+    position: absolute;
+    width: 664px;
+    height: 538px;
+    top: 0;
+    left: 792px;
+  }
+  
+  .desktop .group {
+    position: absolute;
+    width: 619px;
+    height: 511px;
+    top: 0;
+    left: 46px;
+  }
+  
+  .desktop .frame-10 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 61.13px;
+    position: absolute;
+    top: 73px;
+    left: 0;
+  }
+  
+  .desktop .frame-11 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 15.28px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .desktop .text-wrapper-6 {
+    position: relative;
+    width: fit-content;
+    margin-top: -0.76px;
+    font-family: "Manrope-Bold", Helvetica;
+    font-weight: 700;
+    color: var(--txt);
+    font-size: 16.8px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-7 {
+    position: relative;
+    width: 494.37px;
+    font-family: "Manrope-Bold", Helvetica;
+    font-weight: 700;
+    color: var(--txt);
+    font-size: 41.3px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .frame-12 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 38.2px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .desktop .frame-13 {
+    display: inline-flex;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 30.56px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .desktop .img-2 {
+    position: relative;
+    width: 64.18px;
+    height: 64.18px;
+  }
+  
+  .desktop .text-wrapper-8 {
+    position: relative;
+    width: fit-content;
+    margin-top: -0.76px;
+    font-family: "Manrope-Bold", Helvetica;
+    font-weight: 700;
+    color: var(--txt);
+    font-size: 21.4px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .lorem-ipsum-dolor {
+    position: relative;
+    width: 304.11px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--txt);
+    font-size: 13.8px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .frame-14 {
+    display: inline-flex;
+    align-items: center;
+    gap: 30.56px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .desktop .vector {
+    position: absolute;
+    width: 731px;
+    height: 389px;
+    top: 179px;
+    left: 16px;
+  }
+  
+  .desktop .frame-wrapper {
+    position: absolute;
+    width: 610px;
+    height: 381px;
+    top: 0;
+    left: 0;
+    background-color: var(--variable-collection-color-4);
+    border-radius: 22.92px;
+  }
+  
+  .desktop .frame-15 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 38.2px;
+    position: relative;
+    top: 35px;
+    left: 53px;
+  }
+  
+  .desktop .text-wrapper-9 {
+    position: relative;
+    width: 504.3px;
+    height: 105.44px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--txt);
+    font-size: 13.8px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .frame-16 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 38.2px;
+    position: absolute;
+    top: 57px;
+    left: 695px;
+  }
+  
+  .desktop .text-wrapper-10 {
+    position: relative;
+    width: 437.83px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 13.8px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .mask-group-wrapper {
+    position: absolute;
+    width: 1219px;
+    height: 708px;
+    top: 1101px;
+    left: 102px;
+  }
+  
+  .desktop .mask-group {
+    position: absolute;
+    width: 1219px;
+    height: 714px;
+    top: -43px;
+    left: 0;
+  }
+  
+  .desktop .overlap-2 {
+    position: absolute;
+    width: 1831px;
+    height: 535px;
+    top: 0;
+    left: -370px;
+  }
+  
+  .desktop .AI-CHATBOT-wrapper {
+    display: flex;
+    width: 1219px;
+    align-items: center;
+    justify-content: space-around;
+    gap: 38.2px;
+    position: absolute;
+    top: 324px;
+    left: 0;
+  }
+  
+  .desktop .AI-CHATBOT {
+    position: relative;
+    width: fit-content;
+    margin-top: -0.76px;
+    font-family: "Manrope-Bold", Helvetica;
+    font-weight: 700;
+    color: #1a1a1a;
+    font-size: 41.3px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .screenshot {
+    position: absolute;
+    width: 192px;
+    height: 76px;
+    top: 45px;
+    left: 391px;
+    object-fit: cover;
+  }
+  
+  .desktop .hero {
+    width: 1125px;
+    height: 410px;
+    left: 364px;
+    position: absolute;
+    top: 0;
+    background-color: var(--variable-collection-color-4);
+  }
+  
+  .desktop .overlap-3 {
+    position: absolute;
+    width: 978px;
+    height: 297px;
+    top: 113px;
+    left: 148px;
+  }
+  
+  .desktop .vector-2 {
+    width: 635px;
+    height: 297px;
+    left: 343px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .desktop .frame-17 {
+    gap: 29.31px;
+    top: 50px;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: absolute;
+    left: 0;
+  }
+  
+  .desktop .about-us {
+    margin-top: -0.59px;
+    font-size: 39.9px;
+    position: relative;
+    width: fit-content;
+    font-family: "Manrope-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: var(--txt);
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .lorem-ipsum-dolor-2 {
+    width: 687.58px;
+    font-size: 10.6px;
+    position: relative;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--txt);
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .rectangle-2 {
+    width: 3px;
+    height: 192px;
+    top: 132px;
+    left: 95px;
+    position: absolute;
+    background-color: var(--txt);
+  }
+  
+  .desktop .hero-2 {
+    position: absolute;
+    width: 1442px;
+    height: 526px;
+    top: 0;
+    left: 370px;
+    background-color: var(--variable-collection-color-4);
+  }
+  
+  .desktop .overlap-4 {
+    position: absolute;
+    width: 1251px;
+    height: 381px;
+    top: 145px;
+    left: 189px;
+  }
+  
+  .desktop .vector-3 {
+    position: absolute;
+    width: 811px;
+    height: 381px;
+    top: 0;
+    left: 440px;
+  }
+  
+  .desktop .frame-18 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 37.55px;
+    position: absolute;
+    top: 64px;
+    left: 0;
+  }
+  
+  .desktop .about-us-2 {
+    position: relative;
+    width: fit-content;
+    margin-top: -0.75px;
+    font-family: "Manrope-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: var(--txt);
+    font-size: 51.1px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .lorem-ipsum-dolor-3 {
+    width: 880.97px;
+    font-size: 13.5px;
+    position: relative;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--txt);
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .rectangle-3 {
+    position: absolute;
+    width: 4px;
+    height: 246px;
+    top: 170px;
+    left: 121px;
+    background-color: var(--txt);
+  }
+  
+  .desktop .hero-3 {
+    width: 1448px;
+    height: 528px;
+    left: 370px;
+    position: absolute;
+    top: 0;
+    background-color: var(--variable-collection-color-4);
+  }
+  
+  .desktop .overlap-5 {
+    position: absolute;
+    width: 1250px;
+    height: 383px;
+    top: 145px;
+    left: 190px;
+  }
+  
+  .desktop .vector-4 {
+    width: 809px;
+    height: 383px;
+    left: 441px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .desktop .frame-19 {
+    gap: 37.71px;
+    top: 64px;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: absolute;
+    left: 0;
+  }
+  
+  .desktop .about-us-3 {
+    margin-top: -0.75px;
+    font-size: 51.3px;
+    position: relative;
+    width: fit-content;
+    font-family: "Manrope-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: var(--txt);
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-11 {
+    width: 884.75px;
+    font-size: 13.6px;
+    position: relative;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--txt);
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .rectangle-4 {
+    width: 4px;
+    height: 247px;
+    top: 170px;
+    left: 122px;
+    position: absolute;
+    background-color: var(--txt);
+  }
+  
+  .desktop .image {
+    position: absolute;
+    width: 48px;
+    height: 43px;
+    top: 63px;
+    left: 1318px;
+    object-fit: cover;
+  }
+  
+  .desktop .frame-20 {
+    display: flex;
+    width: 1204px;
+    align-items: center;
+    justify-content: space-between;
+    position: absolute;
+    top: 60px;
+    left: 496px;
+  }
+  
+  .desktop .frame-21 {
+    display: inline-flex;
+    align-items: center;
+    gap: 11.31px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .desktop .new-horizon {
+    position: relative;
+    width: fit-content;
+    margin-top: -0.75px;
+    font-family: "Manrope-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: var(--txt);
+    font-size: 21.1px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .navbar {
+    display: flex;
+    width: 494.04px;
+    align-items: flex-start;
+    gap: 37.71px;
+    position: relative;
+  }
+  
+  .desktop .text-wrapper-12 {
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    position: relative;
+    width: fit-content;
+    margin-top: -0.75px;
+    color: var(--txt);
+    font-size: 13.6px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-13 {
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    position: relative;
+    width: fit-content;
+    margin-top: -0.75px;
+    color: var(--txt);
+    font-size: 13.6px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .button {
+    all: unset;
+    box-sizing: border-box;
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 7.54px;
+    padding: 11.31px 37.71px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: var(--x-2);
+    border-radius: 22.63px;
+  }
+  
+  .desktop .see-detail {
+    position: relative;
+    width: fit-content;
+    margin-top: -0.75px;
+    font-family: "Manrope-Bold", Helvetica;
+    font-weight: 700;
+    color: var(--txt);
+    font-size: 16.6px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .hero-4 {
+    width: 1467px;
+    height: 535px;
+    left: 364px;
+    position: absolute;
+    top: 0;
+    background-color: var(--variable-collection-color-4);
+  }
+  
+  .desktop .overlap-6 {
+    position: absolute;
+    width: 1254px;
+    height: 388px;
+    top: 147px;
+    left: 192px;
+  }
+  
+  .desktop .vector-5 {
+    width: 807px;
+    height: 388px;
+    left: 447px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .desktop .frame-22 {
+    gap: 38.2px;
+    top: 65px;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: absolute;
+    left: 0;
+  }
+  
+  .desktop .about-us-4 {
+    margin-top: -0.76px;
+    font-size: 52px;
+    position: relative;
+    width: fit-content;
+    font-family: "Manrope-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: var(--txt);
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .lorem-ipsum-dolor-4 {
+    width: 896.28px;
+    font-size: 13.8px;
+    position: relative;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--txt);
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .rectangle-5 {
+    width: 4px;
+    height: 251px;
+    top: 173px;
+    left: 123px;
+    position: absolute;
+    background-color: var(--txt);
+  }
+  
+  .desktop .screenshot-2 {
+    top: 44px;
+    left: 402px;
+    position: absolute;
+    width: 189px;
+    height: 75px;
+    object-fit: cover;
+  }
+  
+  .desktop .rectangle-6 {
+    position: absolute;
+    width: 471px;
+    height: 445px;
+    top: 3020px;
+    left: 87px;
+    object-fit: cover;
+  }
+  
+  .desktop .the-mental-health {
+    position: absolute;
+    width: 835px;
+    height: 337px;
+    top: 651px;
+    left: 508px;
+  }
+  
+  .desktop .AI-CHATBOT-2 {
+    position: absolute;
+    top: 727px;
+    left: 141px;
+    font-family: var(--h2-font-family);
+    font-weight: var(--h2-font-weight);
+    color: #1a1a1a;
+    font-size: var(--h2-font-size);
+    text-align: center;
+    letter-spacing: var(--h2-letter-spacing);
+    line-height: var(--h2-line-height);
+    font-style: var(--h2-font-style);
+  }
+  
+  .desktop .component {
+    position: absolute;
+    width: 1488px;
+    height: 636px;
+    top: 4355px;
+    left: -28px;
+    border-radius: 5px;
+    overflow: hidden;
+    border: 1px dashed;
+    border-color: #9747ff;
+  }
+  
+  .desktop .property-default {
+    position: relative;
+    width: 1448px;
+    height: 288px;
+    top: 20px;
+    left: 20px;
+  }
+  
+  .desktop .overlap-7 {
+    position: relative;
+    height: 288px;
+  }
+  
+  .desktop .footer {
+    position: absolute;
+    width: 1448px;
+    height: 288px;
+    top: 0;
+    left: 0;
+    background-color: transparent;
+  }
+  
+  .desktop .div-wrapper {
+    width: 1448px;
+    height: 451px;
+    background-color: var(--variable-collection-color-4);
+  }
+  
+  .desktop .frame-23 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 45.26px;
+    position: relative;
+    top: 64px;
+    left: 122px;
+  }
+  
+  .desktop .frame-24 {
+    display: flex;
+    width: 1203.8px;
+    align-items: flex-start;
+    justify-content: space-between;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .desktop .frame-25 {
+    gap: 22.63px;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .desktop .text-wrapper-14 {
+    position: relative;
+    width: fit-content;
+    margin-top: -0.75px;
+    font-family: "Manrope-Bold", Helvetica;
+    font-weight: 700;
+    color: var(--txt);
+    font-size: 21.1px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .lorem-ipsum-dolor-5 {
+    width: 239.1px;
+    font-size: 13.6px;
+    position: relative;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--txt);
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .frame-26 {
+    gap: 11.31px;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .desktop .text-wrapper-15 {
+    position: relative;
+    width: fit-content;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--txt);
+    font-size: 13.6px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .frame-27 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 15.09px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .desktop .frame-28 {
+    display: inline-flex;
+    align-items: center;
+    gap: 15.09px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .desktop .img-3 {
+    position: relative;
+    width: 24.14px;
+    height: 24.14px;
+  }
+  
+  .desktop .text-wrapper-16 {
+    position: relative;
+    width: fit-content;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 13.6px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .vector-6 {
+    position: relative;
+    width: 1203.8px;
+    height: 2.26px;
+  }
+  
+  .desktop .frame-29 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 22.63px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .desktop .frame-30 {
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .desktop .screenshot-3 {
+    top: 40px;
+    left: 44px;
+    position: absolute;
+    width: 189px;
+    height: 75px;
+    object-fit: cover;
+  }
+  
